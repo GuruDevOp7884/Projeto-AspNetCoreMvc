@@ -17,6 +17,9 @@ O escopo escolhido para o trabalho foi o de sistema de controle de estoque.
 - CSS
 - Bootstrap
 
+#### API
+- ViaCep
+
 ## Executando a aplicação
 1. Acessar o <a href="http://josecosta1984-001-site3.etempurl.com/">site</a>.
 2. Para o acesso ao sistema, o usuário de Administrador e Funcionário ja é criado:
